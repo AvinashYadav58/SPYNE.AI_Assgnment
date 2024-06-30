@@ -9,6 +9,10 @@ npm install
 Step 3: Start the Project
 npm start
 
+PORT=3000
+MONGODB_URI=mongodb://localhost:27017/backend-assignment
+JWT_SECRET=your_jwt_secret_key
+
 
 APIs to store and get infromatiton
 
